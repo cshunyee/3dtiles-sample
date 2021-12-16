@@ -1,0 +1,61 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"OverallHeight" : {
+			"minimum" : 2200,
+			"maximum" : 3200.00000000001
+		},
+		"OverallWidth" : {
+			"minimum" : 1200,
+			"maximum" : 5299.99999999999
+		},
+		"Analytical Properties.Analytic Construction" : {},
+		"BaseQuantities.Area" : {},
+		"BaseQuantities.Height" : {},
+		"BaseQuantities.Width" : {},
+		"Constraints.Level" : {},
+		"Constraints.Sill Height" : {},
+		"Construction.Wall Closure" : {},
+		"Dimensions.Default Sill Height" : {},
+		"Dimensions.Height" : {},
+		"Dimensions.Width" : {},
+		"Dimensions.Window Inset" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Identity Data.Mark" : {},
+		"Identity Data.OmniClass Number" : {},
+		"Identity Data.OmniClass Title" : {},
+		"Identity Data.Type Mark" : {},
+		"Materials and Finishes.Glass Pane Material" : {},
+		"Materials and Finishes.Sash Material" : {},
+		"Other.Head Height" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_WindowCommon.IsExternal" : {},
+		"Pset_WindowCommon.Reference" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 6.168054316192865,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2180671.740376375, 4386565.0935787745, 4070843.8697493565, 66.1723392335698, 0, 0, 0, 55.94387133140117, 0, 0, 0, 34.11505791451782 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2180671.740376375, 4386565.0935787745, 4070843.8697493565, 66.1723392335698, 0, 0, 0, 55.94387133140117, 0, 0, 0, 34.11505791451782 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}

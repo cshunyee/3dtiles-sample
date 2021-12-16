@@ -1,0 +1,47 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"OverallHeight" : {},
+		"OverallWidth" : {},
+		"Analytical Properties.Analytic Construction" : {},
+		"Constraints.Offset" : {},
+		"Dimensions.Area" : {},
+		"Dimensions.Height" : {},
+		"Dimensions.Thickness" : {},
+		"Dimensions.Width" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Identity Data.OmniClass Number" : {},
+		"Identity Data.OmniClass Title" : {},
+		"Materials and Finishes.Material" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_PlateCommon.IsExternal" : {},
+		"Pset_PlateCommon.LoadBearing" : {},
+		"Pset_PlateCommon.Reference" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 2.3116095950827003,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2180673.643647796, 4386568.440872704, 4070848.061663262, 22.829667651094496, 0, 0, 0, 13.376562725752592, 0, 0, 0, 2.5216919537633657 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2180673.643647796, 4386568.440872704, 4070848.061663262, 22.829667651094496, 0, 0, 0, 13.376562725752592, 0, 0, 0, 2.5216919537633657 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}

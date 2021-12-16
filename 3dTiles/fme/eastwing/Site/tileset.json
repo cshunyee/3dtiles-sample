@@ -1,0 +1,41 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_id" : {},
+		"element_parent_id" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"RefElevation" : {
+			"minimum" : 127000,
+			"maximum" : 127000
+		},
+		"RefLatitude" : {
+			"minimum" : 39.915999999722224,
+			"maximum" : 39.915999999722224
+		},
+		"RefLongitude" : {
+			"minimum" : 116.43299999972223,
+			"maximum" : 116.43299999972223
+		},
+		"GlobalId" : {},
+		"Dimensions.Projected Area" : {},
+		"Dimensions.Surface Area" : {},
+		"Materials and Finishes.Material" : {},
+		"Phasing.Phase Created" : {}
+	},
+	"geometricError" : 0,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}

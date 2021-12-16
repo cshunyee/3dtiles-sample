@@ -1,0 +1,33 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_id" : {},
+		"Name" : {},
+		"LongName" : {},
+		"Phase" : {},
+		"GlobalId" : {},
+		"AreaUnit" : {},
+		"LengthUnit" : {},
+		"MassUnit" : {},
+		"PlaneAngleUnit" : {},
+		"PowerUnit" : {},
+		"TemperatureUnit" : {},
+		"TimeUnit" : {},
+		"VolumeUnit" : {}
+	},
+	"geometricError" : 0,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}

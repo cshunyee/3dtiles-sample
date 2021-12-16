@@ -1,0 +1,32 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_id" : {},
+		"element_parent_id" : {},
+		"LongName" : {},
+		"Name" : {},
+		"GlobalId" : {},
+		"BuildingAddress.AddressLines{}" : {},
+		"BuildingAddress.Country" : {},
+		"BuildingAddress.PostalCode" : {},
+		"BuildingAddress.Region" : {},
+		"BuildingAddress.Town" : {},
+		"Identity Data.Author" : {},
+		"Identity Data.Building Name" : {},
+		"Identity Data.Organization Description" : {},
+		"Identity Data.Organization Name" : {},
+		"Pset_BuildingCommon.NumberOfStoreys" : {
+			"minimum" : 14,
+			"maximum" : 14
+		}
+	},
+	"geometricError" : 0,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 ]
+		},
+		"refine" : "ADD"
+	}
+}

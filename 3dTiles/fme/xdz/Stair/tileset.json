@@ -1,0 +1,92 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"ShapeType" : {},
+		"Constraints.Base Level" : {},
+		"Constraints.Base Offset" : {},
+		"Constraints.Top Level" : {},
+		"Constraints.Top Offset" : {},
+		"Construction.Extend Below Base" : {},
+		"Construction.Function" : {},
+		"Construction.Landing Overlap" : {},
+		"Construction.Monolithic Stairs" : {},
+		"Construction.Underside of Winder" : {},
+		"Dimensions.Actual Number of Risers" : {},
+		"Dimensions.Actual Riser Height" : {},
+		"Dimensions.Actual Tread Depth" : {},
+		"Dimensions.Desired Number of Risers" : {},
+		"Dimensions.Width" : {},
+		"Graphics.Break Symbol in Plan" : {},
+		"Graphics.Down arrow" : {},
+		"Graphics.Down label" : {},
+		"Graphics.Down text" : {},
+		"Graphics.Show Up arrow in all views" : {},
+		"Graphics.Text Font" : {},
+		"Graphics.Text Size" : {},
+		"Graphics.Up arrow" : {},
+		"Graphics.Up label" : {},
+		"Graphics.Up text" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Materials and Finishes.Stringer Material" : {},
+		"Materials and Finishes.Tread Material" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_StairCommon.IsExternal" : {},
+		"Pset_StairCommon.NumberOfRiser" : {
+			"minimum" : 24,
+			"maximum" : 26
+		},
+		"Pset_StairCommon.NumberOfTreads" : {
+			"minimum" : 22,
+			"maximum" : 24
+		},
+		"Pset_StairCommon.Reference" : {},
+		"Pset_StairCommon.RiserHeight" : {
+			"minimum" : 156,
+			"maximum" : 162.500000000041
+		},
+		"Pset_StairCommon.TreadLength" : {
+			"minimum" : 260,
+			"maximum" : 260
+		},
+		"Risers.Begin with Riser" : {},
+		"Risers.End with Riser" : {},
+		"Risers.Maximum Riser Height" : {},
+		"Risers.Riser Thickness" : {},
+		"Risers.Riser to Tread Connection" : {},
+		"Risers.Riser Type" : {},
+		"Stringers.Landing Carriage Height" : {},
+		"Stringers.Left Stringer" : {},
+		"Stringers.Middle Stringers" : {},
+		"Stringers.Open Stringer Offset" : {},
+		"Stringers.Right Stringer" : {},
+		"Stringers.Stringer Carriage Height" : {},
+		"Stringers.Stringer Height" : {},
+		"Stringers.Stringer Thickness" : {},
+		"Stringers.Trim Stringers at Top" : {},
+		"Treads.Apply Nosing Profile" : {},
+		"Treads.Minimum Tread Depth" : {},
+		"Treads.Nosing Length" : {},
+		"Treads.Nosing Profile" : {},
+		"Treads.Tread Thickness" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 0,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 ]
+		},
+		"refine" : "ADD"
+	}
+}

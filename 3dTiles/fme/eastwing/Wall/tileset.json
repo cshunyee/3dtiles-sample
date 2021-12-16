@@ -1,0 +1,193 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"Analytical Properties.Roughness" : {},
+		"Analytical Properties.Absorptance" : {},
+		"BaseQuantities.GrossFootprintArea" : {},
+		"BaseQuantities.GrossSideArea" : {},
+		"BaseQuantities.GrossVolume" : {},
+		"BaseQuantities.Height" : {},
+		"BaseQuantities.Length" : {},
+		"BaseQuantities.Width" : {},
+		"Constraints.Base Constraint" : {},
+		"Constraints.Base Extension Distance" : {},
+		"Constraints.Base is Attached" : {},
+		"Constraints.Base Offset" : {},
+		"Constraints.Location Line" : {},
+		"Constraints.Related to Mass" : {},
+		"Constraints.Room Bounding" : {},
+		"Constraints.Top Constraint" : {},
+		"Constraints.Top Extension Distance" : {},
+		"Constraints.Top is Attached" : {},
+		"Constraints.Top Offset" : {},
+		"Constraints.Unconnected Height" : {},
+		"Construction.Function" : {},
+		"Construction.Width" : {},
+		"Construction.Wrapping at Ends" : {},
+		"Construction.Wrapping at Inserts" : {},
+		"Dimensions.Area" : {},
+		"Dimensions.Length" : {},
+		"Dimensions.Volume" : {},
+		"Graphics.Coarse Scale Fill Color" : {},
+		"Graphics.Coarse Scale Fill Pattern" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Materials and Finishes.Structural Material" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_WallCommon.ExtendToStructure" : {},
+		"Pset_WallCommon.IsExternal" : {},
+		"Pset_WallCommon.LoadBearing" : {},
+		"Pset_WallCommon.Reference" : {},
+		"Structural.Enable Analytical Model" : {},
+		"Structural.Structural" : {},
+		"Structural.Structural Usage" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 37.73296321509406,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2262984.1609494668, 4332176.126140097, 4083942.137613305, 110.18971799965948, 0, 0, 0, 122.34685929212719, 0, 0, 0, 120.40132466563955 ]
+		},
+		"geometricError" : 37.73296321509406,
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2262984.1609494668, 4332174.551577656, 4083942.628775775, 110.18971799965948, 0, 0, 0, 119.19773440994322, 0, 0, 0, 119.41899972502142 ]
+			},
+			"url" : "data/data0.b3dm"
+		},
+		"children" : [
+			{
+				"boundingVolume" : {
+					"box" : [ -2263015.2166556306, 4332195.853891792, 4083960.8306125905, 19.703043840359896, 0, 0, 0, 39.965559967793524, 0, 0, 0, 77.22174059739336 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2263015.2166556306, 4332195.853891792, 4083960.8306125905, 19.703043840359896, 0, 0, 0, 39.965559967793524, 0, 0, 0, 77.22174059739336 ]
+					},
+					"url" : "data/data1.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2263026.36292571, 4332215.581463413, 4083973.427504135, 19.67364357318729, 0, 0, 0, 31.03337186295539, 0, 0, 0, 56.61304086726159 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2263026.36292571, 4332215.581463413, 4083973.427504135, 19.67364357318729, 0, 0, 0, 31.03337186295539, 0, 0, 0, 56.61304086726159 ]
+					},
+					"url" : "data/data2.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2262987.956568389, 4332163.841659224, 4083928.167064554, 30.25156209245324, 0, 0, 0, 24.53741414938122, 0, 0, 0, 66.02373632276431 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2262987.956568389, 4332163.841659224, 4083928.167064554, 30.25156209245324, 0, 0, 0, 24.53741414938122, 0, 0, 0, 66.02373632276431 ]
+					},
+					"url" : "data/data3.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2262975.395043292, 4332181.657780826, 4083937.8767895927, 77.02424382697791, 0, 0, 0, 27.558751136995852, 0, 0, 0, 76.78070260584354 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2262975.395043292, 4332181.657780826, 4083937.8767895927, 77.02424382697791, 0, 0, 0, 27.558751136995852, 0, 0, 0, 76.78070260584354 ]
+					},
+					"url" : "data/data4.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2262978.693723196, 4332149.534953568, 4083917.1488125976, 40.58157700533047, 0, 0, 0, 13.016791039146483, 0, 0, 0, 56.13297839462757 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2262978.693723196, 4332149.534953568, 4083917.1488125976, 40.58157700533047, 0, 0, 0, 13.016791039146483, 0, 0, 0, 56.13297839462757 ]
+					},
+					"url" : "data/data5.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2263032.363111062, 4332232.013334567, 4083974.2258229796, 12.81975110527128, 0, 0, 0, 10.572470352053642, 0, 0, 0, 11.861314281821251 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2263032.363111062, 4332232.013334567, 4083974.2258229796, 12.81975110527128, 0, 0, 0, 10.572470352053642, 0, 0, 0, 11.861314281821251 ]
+					},
+					"url" : "data/data6.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2263000.3100699503, 4332169.141043028, 4083932.5386689436, 12.219367715064436, 0, 0, 0, 25.109446468763053, 0, 0, 0, 58.48901641368866 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2263000.3100699503, 4332169.141043028, 4083932.5386689436, 12.219367715064436, 0, 0, 0, 25.109446468763053, 0, 0, 0, 58.48901641368866 ]
+					},
+					"url" : "data/data7.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2262982.0719787967, 4332131.846642995, 4083909.520616494, 23.840920506045222, 0, 0, 0, 33.46157972794026, 0, 0, 0, 55.16733104502782 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2262982.0719787967, 4332131.846642995, 4083909.520616494, 23.840920506045222, 0, 0, 0, 33.46157972794026, 0, 0, 0, 55.16733104502782 ]
+					},
+					"url" : "data/data8.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2263006.22787363, 4332180.286809385, 4083944.3247759817, 8.890193015802652, 0, 0, 0, 28.592225988395512, 0, 0, 0, 55.024685410782695 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2263006.22787363, 4332180.286809385, 4083944.3247759817, 8.890193015802652, 0, 0, 0, 28.592225988395512, 0, 0, 0, 55.024685410782695 ]
+					},
+					"url" : "data/data9.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2262946.4078051643, 4332152.745038731, 4083924.0616838885, 34.32738748006523, 0, 0, 0, 34.099002671428025, 0, 0, 0, 37.49126084893942 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2262946.4078051643, 4332152.745038731, 4083924.0616838885, 34.32738748006523, 0, 0, 0, 34.099002671428025, 0, 0, 0, 37.49126084893942 ]
+					},
+					"url" : "data/data10.b3dm"
+				}
+			}
+		]
+	}
+}

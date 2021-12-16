@@ -1,0 +1,53 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"BaseQuantities.CrossSectionArea" : {},
+		"BaseQuantities.GrossVolume" : {},
+		"BaseQuantities.Length" : {},
+		"BaseQuantities.OuterSurfaceArea" : {},
+		"Constraints.Base Level" : {},
+		"Constraints.Base Offset" : {},
+		"Constraints.Moves With Grids" : {},
+		"Constraints.Room Bounding" : {},
+		"Constraints.Top Level" : {},
+		"Constraints.Top Offset" : {},
+		"Dimensions.Depth" : {},
+		"Dimensions.Offset Base" : {},
+		"Dimensions.Offset Top" : {},
+		"Dimensions.Width" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Identity Data.OmniClass Number" : {},
+		"Identity Data.OmniClass Title" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_ColumnCommon.IsExternal" : {},
+		"Pset_ColumnCommon.LoadBearing" : {},
+		"Pset_ColumnCommon.Reference" : {},
+		"Pset_ColumnCommon.Slope" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 4.546167750842869,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2180670.600577778, 4386562.354614148, 4070842.440439718, 68.37899027671665, 0, 0, 0, 59.50692119728774, 0, 0, 0, 39.17057417007163 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2180670.600577778, 4386562.354614148, 4070842.440439718, 68.37899027671665, 0, 0, 0, 59.50692119728774, 0, 0, 0, 39.17057417007163 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}

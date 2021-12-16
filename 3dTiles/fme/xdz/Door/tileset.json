@@ -1,0 +1,69 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"OverallHeight" : {
+			"minimum" : 2999.99999999804,
+			"maximum" : 3499.99999999805
+		},
+		"OverallWidth" : {
+			"minimum" : 1200,
+			"maximum" : 2650
+		},
+		"Analytical Properties.Analytic Construction" : {},
+		"BaseQuantities.Area" : {},
+		"BaseQuantities.Height" : {},
+		"BaseQuantities.Width" : {},
+		"Constraints.Level" : {},
+		"Constraints.Sill Height" : {},
+		"Construction.Function" : {},
+		"Construction.Wall Closure" : {},
+		"Dimensions.Height" : {},
+		"Dimensions.Rail Width - Base" : {},
+		"Dimensions.Rail Width - Top" : {},
+		"Dimensions.Stile Width - Hinge" : {},
+		"Dimensions.Stile Width - Latch" : {},
+		"Dimensions.Thickness" : {},
+		"Dimensions.Trim Projection Ext" : {},
+		"Dimensions.Trim Projection Int" : {},
+		"Dimensions.Trim Width" : {},
+		"Dimensions.Width" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Identity Data.Mark" : {},
+		"Identity Data.OmniClass Number" : {},
+		"Identity Data.OmniClass Title" : {},
+		"Identity Data.Type Mark" : {},
+		"Materials and Finishes.Door Material" : {},
+		"Materials and Finishes.Frame Material" : {},
+		"Other.Head Height" : {},
+		"Other.Trim Width" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_DoorCommon.IsExternal" : {},
+		"Pset_DoorCommon.Reference (utf-8)" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 3.9575058156624436,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2180669.3714562897, 4386559.84707658, 4070843.819780046, 54.42672060756013, 0, 0, 0, 41.708244474604726, 0, 0, 0, 34.53756506042555 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2180669.3714562897, 4386559.84707658, 4070843.819780046, 54.42672060756013, 0, 0, 0, 41.708244474604726, 0, 0, 0, 34.53756506042555 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}

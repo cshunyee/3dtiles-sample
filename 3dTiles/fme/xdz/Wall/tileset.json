@@ -1,0 +1,70 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"Analytical Properties.Roughness" : {},
+		"Analytical Properties.Absorptance" : {},
+		"BaseQuantities.GrossFootprintArea" : {},
+		"BaseQuantities.GrossSideArea" : {},
+		"BaseQuantities.GrossVolume" : {},
+		"BaseQuantities.Height" : {},
+		"BaseQuantities.Length" : {},
+		"BaseQuantities.Width" : {},
+		"Constraints.Base Constraint" : {},
+		"Constraints.Base Extension Distance" : {},
+		"Constraints.Base is Attached" : {},
+		"Constraints.Base Offset" : {},
+		"Constraints.Location Line" : {},
+		"Constraints.Related to Mass" : {},
+		"Constraints.Room Bounding" : {},
+		"Constraints.Top Constraint" : {},
+		"Constraints.Top Extension Distance" : {},
+		"Constraints.Top is Attached" : {},
+		"Constraints.Top Offset" : {},
+		"Constraints.Unconnected Height" : {},
+		"Construction.Function" : {},
+		"Construction.Width" : {},
+		"Construction.Wrapping at Ends" : {},
+		"Construction.Wrapping at Inserts" : {},
+		"Dimensions.Area" : {},
+		"Dimensions.Length" : {},
+		"Dimensions.Volume" : {},
+		"Graphics.Coarse Scale Fill Color" : {},
+		"Graphics.Coarse Scale Fill Pattern" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Materials and Finishes.Structural Material" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_WallCommon.ExtendToStructure" : {},
+		"Pset_WallCommon.IsExternal" : {},
+		"Pset_WallCommon.LoadBearing" : {},
+		"Pset_WallCommon.Reference" : {},
+		"Structural.Enable Analytical Model" : {},
+		"Structural.Structural" : {},
+		"Structural.Structural Usage" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 52.96697184583172,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2180672.0558554446, 4386565.653699774, 4070844.2691722554, 67.39734421530738, 0, 0, 0, 58.27565384656191, 0, 0, 0, 35.51308920327574 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2180672.0558554446, 4386565.653699774, 4070844.2691722554, 67.39734421530738, 0, 0, 0, 58.27565384656191, 0, 0, 0, 35.51308920327574 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}

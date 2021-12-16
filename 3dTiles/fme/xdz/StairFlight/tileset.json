@@ -1,0 +1,114 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"ShapeType" : {},
+		"Constraints.Base Level" : {},
+		"Constraints.Base Offset" : {},
+		"Constraints.Top Level" : {},
+		"Constraints.Top Offset" : {},
+		"Construction.Extend Below Base" : {},
+		"Construction.Function" : {},
+		"Construction.Landing Overlap" : {},
+		"Construction.Monolithic Stairs" : {},
+		"Construction.Underside of Winder" : {},
+		"Dimensions.Actual Number of Risers" : {},
+		"Dimensions.Actual Riser Height" : {},
+		"Dimensions.Actual Tread Depth" : {},
+		"Dimensions.Desired Number of Risers" : {},
+		"Dimensions.Width" : {},
+		"Graphics.Break Symbol in Plan" : {},
+		"Graphics.Down arrow" : {},
+		"Graphics.Down label" : {},
+		"Graphics.Down text" : {},
+		"Graphics.Show Up arrow in all views" : {},
+		"Graphics.Text Font" : {},
+		"Graphics.Text Size" : {},
+		"Graphics.Up arrow" : {},
+		"Graphics.Up label" : {},
+		"Graphics.Up text" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Materials and Finishes.Stringer Material" : {},
+		"Materials and Finishes.Tread Material" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_StairFlightCommon.NosingLength" : {
+			"minimum" : 0,
+			"maximum" : 0
+		},
+		"Pset_StairFlightCommon.NumberOfRiser" : {
+			"minimum" : 24,
+			"maximum" : 26
+		},
+		"Pset_StairFlightCommon.NumberOfTreads" : {
+			"minimum" : 22,
+			"maximum" : 24
+		},
+		"Pset_StairFlightCommon.Reference" : {},
+		"Pset_StairFlightCommon.RiserHeight" : {
+			"minimum" : 156,
+			"maximum" : 162.500000000041
+		},
+		"Pset_StairFlightCommon.TreadLength" : {
+			"minimum" : 260,
+			"maximum" : 260
+		},
+		"Pset_StairFlightCommon.TreadLengthAtInnerSide" : {},
+		"Pset_StairFlightCommon.TreadLengthAtOffset" : {
+			"minimum" : 260,
+			"maximum" : 260
+		},
+		"Pset_StairFlightCommon.WaistThickness" : {
+			"minimum" : 1200,
+			"maximum" : 1200
+		},
+		"Pset_StairFlightCommon.WalkingLineOffset" : {
+			"minimum" : 600,
+			"maximum" : 600
+		},
+		"Risers.Begin with Riser" : {},
+		"Risers.End with Riser" : {},
+		"Risers.Maximum Riser Height" : {},
+		"Risers.Riser Thickness" : {},
+		"Risers.Riser to Tread Connection" : {},
+		"Risers.Riser Type" : {},
+		"Stringers.Landing Carriage Height" : {},
+		"Stringers.Left Stringer" : {},
+		"Stringers.Middle Stringers" : {},
+		"Stringers.Open Stringer Offset" : {},
+		"Stringers.Right Stringer" : {},
+		"Stringers.Stringer Carriage Height" : {},
+		"Stringers.Stringer Height" : {},
+		"Stringers.Stringer Thickness" : {},
+		"Stringers.Trim Stringers at Top" : {},
+		"Treads.Apply Nosing Profile" : {},
+		"Treads.Minimum Tread Depth" : {},
+		"Treads.Nosing Length" : {},
+		"Treads.Nosing Profile" : {},
+		"Treads.Tread Thickness" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 3.8587186564691365,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2180671.997614556, 4386565.158773305, 4070843.0282338923, 35.79530472913757, 0, 0, 0, 25.27665002644062, 0, 0, 0, 10.021521893329918 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2180671.997614556, 4386565.158773305, 4070843.0282338923, 35.79530472913757, 0, 0, 0, 25.27665002644062, 0, 0, 0, 10.021521893329918 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"PredefinedType" : {},
+		"BaseQuantities.Length" : {},
+		"Constraints.Base Level" : {},
+		"Constraints.Base Offset" : {},
+		"Constraints.Tread/Stringer Offset" : {},
+		"Construction.Angled Joins" : {},
+		"Construction.Baluster Offset" : {},
+		"Construction.Landing Height Adjustment" : {},
+		"Construction.Rail Connections" : {},
+		"Construction.Railing Height" : {},
+		"Construction.Tangent Joins" : {},
+		"Construction.Use Landing Height Adjustment" : {},
+		"Dimensions.Length" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_RailingCommon.Height" : {
+			"minimum" : 900,
+			"maximum" : 900
+		},
+		"Pset_RailingCommon.IsExternal" : {},
+		"Pset_RailingCommon.Reference" : {},
+		"Top Rail.Height" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 7.838683472014964,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2262983.935577767, 4332175.651605999, 4083938.3310726536, 97.84338264120743, 0, 0, 0, 115.06185868568718, 0, 0, 0, 122.28329774690792 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2262983.935577767, 4332175.651605999, 4083938.3310726536, 97.84338264120743, 0, 0, 0, 115.06185868568718, 0, 0, 0, 122.28329774690792 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}

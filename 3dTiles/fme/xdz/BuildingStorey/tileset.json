@@ -1,0 +1,27 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_id" : {},
+		"element_parent_id" : {},
+		"Elevation" : {
+			"minimum" : -5699.99999999991,
+			"maximum" : 20800
+		},
+		"GlobalId" : {},
+		"Name" : {},
+		"LongName" : {},
+		"Dimensions.Computation Height" : {},
+		"Identity Data.Building Story" : {},
+		"Identity Data.Structural" : {},
+		"Pset_BuildingStoreyCommon.AboveGround" : {}
+	},
+	"geometricError" : 0,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1 ]
+		},
+		"refine" : "ADD"
+	}
+}

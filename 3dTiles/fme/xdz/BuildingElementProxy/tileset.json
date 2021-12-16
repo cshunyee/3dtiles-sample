@@ -1,0 +1,47 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"Constraints.Host" : {},
+		"Constraints.Level" : {},
+		"Constraints.Moves With Nearby Elements" : {},
+		"Dimensions.Depth" : {},
+		"Dimensions.Height" : {},
+		"Dimensions.Width" : {},
+		"Dimensions.Volume" : {},
+		"Electrical - Loads.Circuit Number" : {},
+		"Electrical - Loads.Panel" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Identity Data.OmniClass Number" : {},
+		"Identity Data.OmniClass Title" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_BuildingElementProxyCommon.Reference" : {},
+		"Pset_SpaceCommon.Reference" : {},
+		"Text.Label" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 67.16476614307612,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2180673.4108887413, 4386566.966126187, 4070845.5606937036, 71.52472460549325, 0, 0, 0, 62.12419329304248, 0, 0, 0, 39.47656856337562 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2180673.4108887413, 4386566.966126187, 4070845.5606937036, 71.52472460549325, 0, 0, 0, 62.12419329304248, 0, 0, 0, 39.47656856337562 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}

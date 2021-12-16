@@ -1,0 +1,198 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"BaseQuantities.GrossVolume" : {},
+		"Constraints.Cross-Section Rotation" : {},
+		"Constraints.End Level Offset" : {},
+		"Constraints.Lateral Justification" : {},
+		"Constraints.Orientation" : {},
+		"Constraints.Reference Level" : {},
+		"Constraints.Start Level Offset" : {},
+		"Constraints.Work Plane" : {},
+		"Constraints.z-Direction Justification" : {},
+		"Constraints.z-Direction Offset Value" : {},
+		"Construction.End Extension" : {},
+		"Construction.Start Extension" : {},
+		"Dimensions.bf" : {},
+		"Dimensions.d" : {},
+		"Dimensions.Length" : {},
+		"Dimensions.tf" : {},
+		"Dimensions.tw" : {},
+		"Dimensions.Volume" : {},
+		"Dimensions.x" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Identity Data.OmniClass Number" : {},
+		"Identity Data.OmniClass Title" : {},
+		"Materials and Finishes.Structural Material" : {},
+		"Other.End Extension Calculation" : {},
+		"Other.Start Extension Calculation" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_BeamCommon.IsExternal" : {},
+		"Pset_BeamCommon.LoadBearing" : {},
+		"Pset_BeamCommon.Reference" : {},
+		"Pset_BeamCommon.Slope" : {
+			"minimum" : 0,
+			"maximum" : 0
+		},
+		"Pset_BeamCommon.Span" : {
+			"minimum" : 800.054785779656,
+			"maximum" : 57300.0000672298
+		},
+		"Structural.A" : {},
+		"Structural.Angle" : {},
+		"Structural.Cut Length" : {},
+		"Structural.Enable Analytical Model" : {},
+		"Structural.Stick Symbol Location" : {},
+		"Structural.Structural Usage" : {},
+		"Structural.W" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 51.26206772355363,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2180671.4541811356, 4386562.733384313, 4070843.1308476757, 66.32921927748248, 0, 0, 0, 58.393260321579874, 0, 0, 0, 37.89302540430799 ]
+		},
+		"geometricError" : 51.262035441584885,
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2180671.4541811356, 4386562.707497992, 4070843.1308476757, 66.32921927748248, 0, 0, 0, 58.34148767776787, 0, 0, 0, 37.89302540430799 ]
+			},
+			"url" : "data/data0.b3dm"
+		},
+		"children" : [
+			{
+				"boundingVolume" : {
+					"box" : [ -2180691.41095373, 4386560.873592204, 4070844.1979919383, 24.910981744527817, 0, 0, 0, 23.327963311225176, 0, 0, 0, 35.34861193737015 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2180691.41095373, 4386560.873592204, 4070844.1979919383, 24.910981744527817, 0, 0, 0, 23.327963311225176, 0, 0, 0, 35.34861193737015 ]
+					},
+					"url" : "data/data1.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2180660.466038814, 4386587.828299588, 4070842.9908134933, 14.12315370561555, 0, 0, 0, 8.203429772518575, 0, 0, 0, 2.1937775425612926 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2180660.466038814, 4386587.828299588, 4070842.9908134933, 14.12315370561555, 0, 0, 0, 8.203429772518575, 0, 0, 0, 2.1937775425612926 ]
+					},
+					"url" : "data/data2.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2180664.6630576323, 4386555.237040998, 4070850.071585455, 18.6437556874007, 0, 0, 0, 15.630905809812248, 0, 0, 0, 23.294079386163503 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2180664.6630576323, 4386555.237040998, 4070850.071585455, 18.6437556874007, 0, 0, 0, 15.630905809812248, 0, 0, 0, 23.294079386163503 ]
+					},
+					"url" : "data/data3.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2180652.0752565525, 4386565.118991017, 4070847.381025457, 25.68043993599713, 0, 0, 0, 19.039913445711136, 0, 0, 0, 29.289402515161783 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2180652.0752565525, 4386565.118991017, 4070847.381025457, 25.68043993599713, 0, 0, 0, 19.039913445711136, 0, 0, 0, 29.289402515161783 ]
+					},
+					"url" : "data/data4.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2180653.747542383, 4386577.272845456, 4070844.0446256306, 28.04800368612632, 0, 0, 0, 28.840861503966153, 0, 0, 0, 35.04178810166195 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2180653.747542383, 4386577.272845456, 4070844.0446256306, 28.04800368612632, 0, 0, 0, 28.840861503966153, 0, 0, 0, 35.04178810166195 ]
+					},
+					"url" : "data/data5.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2180686.5023815087, 4386566.499441254, 4070849.732414699, 8.206864905543625, 0, 0, 0, 14.433041337877512, 0, 0, 0, 22.727034769486636 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2180686.5023815087, 4386566.499441254, 4070849.732414699, 8.206864905543625, 0, 0, 0, 14.433041337877512, 0, 0, 0, 22.727034769486636 ]
+					},
+					"url" : "data/data6.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2180682.9674045527, 4386553.899272232, 4070849.3562031267, 25.702336435671896, 0, 0, 0, 22.33672560378909, 0, 0, 0, 24.7248155628331 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2180682.9674045527, 4386553.899272232, 4070849.3562031267, 25.702336435671896, 0, 0, 0, 22.33672560378909, 0, 0, 0, 24.7248155628331 ]
+					},
+					"url" : "data/data7.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2180670.2858672393, 4386561.571870574, 4070848.536620756, 53.19345233542845, 0, 0, 0, 29.93257601931691, 0, 0, 0, 26.210621114820242 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2180670.2858672393, 4386561.571870574, 4070848.536620756, 53.19345233542845, 0, 0, 0, 29.93257601931691, 0, 0, 0, 26.210621114820242 ]
+					},
+					"url" : "data/data8.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2180651.2895088852, 4386561.438627012, 4070845.1495599765, 4.970308142714202, 0, 0, 0, 9.726933631114662, 0, 0, 0, 12.733152505476028 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2180651.2895088852, 4386561.438627012, 4070845.1495599765, 4.970308142714202, 0, 0, 0, 9.726933631114662, 0, 0, 0, 12.733152505476028 ]
+					},
+					"url" : "data/data9.b3dm"
+				}
+			},
+			{
+				"boundingVolume" : {
+					"box" : [ -2180692.283281996, 4386546.388933336, 4070839.1211535386, 16.68143903557211, 0, 0, 0, 23.523047382943332, 0, 0, 0, 29.873616910539567 ]
+				},
+				"refine" : "ADD",
+				"content" : {
+					"boundingVolume" : {
+						"box" : [ -2180692.283281996, 4386546.388933336, 4070839.1211535386, 16.68143903557211, 0, 0, 0, 23.523047382943332, 0, 0, 0, 29.873616910539567 ]
+					},
+					"url" : "data/data10.b3dm"
+				}
+			}
+		]
+	}
+}

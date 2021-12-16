@@ -1,0 +1,69 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"element_parent_id" : {},
+		"element_id" : {},
+		"GlobalId" : {},
+		"Name" : {},
+		"ObjectType" : {},
+		"Tag" : {},
+		"OverallHeight" : {},
+		"OverallWidth" : {},
+		"Analytical Properties.Absorptance" : {},
+		"Analytical Properties.Roughness" : {},
+		"BaseQuantities.GrossArea" : {},
+		"BaseQuantities.GrossVolume" : {},
+		"BaseQuantities.Perimeter" : {},
+		"BaseQuantities.Width" : {},
+		"Constraints.Base Level" : {},
+		"Constraints.Base Offset From Level" : {},
+		"Constraints.Cutoff Offset" : {},
+		"Constraints.Height Offset From Level" : {},
+		"Constraints.Level" : {},
+		"Constraints.Related to Mass" : {},
+		"Constraints.Room Bounding" : {},
+		"Construction.Default Thickness" : {},
+		"Construction.Fascia Depth" : {},
+		"Construction.Function" : {},
+		"Construction.Maximum Ridge Height" : {},
+		"Construction.Rafter Cut" : {},
+		"Construction.Rafter or Truss" : {},
+		"Construction.Thickness" : {},
+		"Dimensions.Area" : {},
+		"Dimensions.Perimeter" : {},
+		"Dimensions.Slope" : {},
+		"Dimensions.Thickness" : {},
+		"Dimensions.Volume" : {},
+		"Graphics.Coarse Scale Fill Color" : {},
+		"Identity Data.Assembly Code" : {},
+		"Identity Data.Assembly Description" : {},
+		"Materials and Finishes.Structural Material" : {},
+		"Phasing.Phase Created" : {},
+		"Pset_RoofCommon.IsExternal" : {},
+		"Pset_RoofCommon.ProjectedArea" : {},
+		"Pset_RoofCommon.Reference" : {},
+		"Pset_RoofCommon.TotalArea" : {},
+		"Pset_SlabCommon.IsExternal" : {},
+		"Pset_SlabCommon.LoadBearing" : {},
+		"Pset_SlabCommon.Reference" : {},
+		"Pset_ManufacturerTypeInformation.Manufacturer" : {},
+		"Pset_ManufacturerTypeInformation.ModelLabel" : {},
+		"Pset_ManufacturerTypeInformation.ModelReference" : {},
+		"Pset_ManufacturerTypeInformation.ProductionYear" : {}
+	},
+	"geometricError" : 63.203545761760324,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ -2180670.5524528716, 4386562.9346157815, 4070842.053053513, 69.24885062640533, 0, 0, 0, 61.9323205454275, 0, 0, 0, 39.48512557381764 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ -2180670.5524528716, 4386562.9346157815, 4070842.053053513, 69.24885062640533, 0, 0, 0, 61.9323205454275, 0, 0, 0, 39.48512557381764 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}
